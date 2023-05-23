@@ -21,18 +21,18 @@ Data used from the shootings themselves include coordinates, victims (wounded/ki
 
 Riedman, David. 2022. K-12 School Shooting Database [xlsx]. https://k12ssdb.org/all-shootings
 
-U.S. Census Bureau. 2010-2019, 2021. American Community Survey Education Attainment 1-Year Estimates (S1501)[csv zip].
-&emsp;&emsp;&emsp;https://data.census.gov/table?q=state+level+educational+attainment&tid=ACSST1Y2021.S1501
+U.S. Census Bureau. 2010-2019, 2021. American Community Survey Education Attainment 1-Year Estimates (S1501)   
+&emsp;&emsp;&emsp;[csv zip]. https://data.census.gov/table?q=state+level+educational+attainment&tid=ACSST1Y2021.S1501
 
-U.S. Census Bureau. 2010-2019, 2021. American Community Survey Selected Characteristics of Health Insurance Coverage   
-&emsp;&emsp;&emsp;in the United States 1-Year Estimates (S2701)[csv zip].                                                    
+U.S. Census Bureau. 2010-2019, 2021. American Community Survey Selected Characteristics of Health Insurance     
+&emsp;&emsp;&emsp;Coverage in the United States 1-Year Estimates (S2701)[csv zip].                                  
 &emsp;&emsp;&emsp;https://data.census.gov/table?q=state+level+insurance+coverage&tid=ACSST1Y2021.S2701
 
-U.S. Census Bureau. 2010-2019, 2021. American Community Survey Poverty Status in the past 12 Months 1-Year Estimates (S1701)
-&emsp;&emsp;&emsp;[csv zip]. https://data.census.gov/table?q=state+level+poverty&tid=ACSST1Y2021.S1701
+U.S. Census Bureau. 2010-2019, 2021. American Community Survey Poverty Status in the past 12 Months 1-Year     
+&emsp;&emsp;&emsp;Estimates (S1701)[csv zip]. https://data.census.gov/table?q=state+level+poverty&tid=ACSST1Y2021.S1701
 
-U.S. Department of Health and Human Services, Substance Abuse and Mental Health Services Administration. 2016-2019.           
-&emsp;&emsp;&emsp; NSDUH State Estimates Of Substance Use And Mental Disorders [xlsx]. https://www.samhsa.gov/data/nsduh/state-reports
+U.S. Department of Health and Human Services, Substance Abuse and Mental Health Services Administration.          
+&emsp;&emsp;&emsp;2016-2019. NSDUH State Estimates Of Substance Use And Mental Disorders [xlsx]. https://www.samhsa.gov/data/nsduh/state-reports
 
 Schell, Terry L., Samuel Peterson, Brian G. Vegetabile, Adam Scherling, Rosanna Smart, and Andrew R. Morral. 2020.            
 &emsp;&emsp;&emsp;State-Level Estimates of Household Firearm Ownership [xlsx]. Santa Monica, CA: RAND Corporation.                   
